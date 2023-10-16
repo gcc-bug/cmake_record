@@ -1,0 +1,3 @@
+C:/Users/Bygdc.000/Desktop/code/cmake_record/folder/build/CMakeFiles/hello_world.dir
+C:/Users/Bygdc.000/Desktop/code/cmake_record/folder/build/CMakeFiles/edit_cache.dir
+C:/Users/Bygdc.000/Desktop/code/cmake_record/folder/build/CMakeFiles/rebuild_cache.dir
