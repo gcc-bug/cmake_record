@@ -1,0 +1,7 @@
+add_executable(
+  calculator.x
+  add.f90
+  subtract.f90
+  calculator.h
+  main.cpp
+  )

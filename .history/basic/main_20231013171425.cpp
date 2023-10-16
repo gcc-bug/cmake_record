@@ -4,7 +4,6 @@
 #include <string>
 #include <Config.h>
 #include <ctime>
-#include <variant>
 int main(int argc, char* argv[])
 {
      if (argc < 2) {

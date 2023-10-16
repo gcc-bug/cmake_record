@@ -1,0 +1,3 @@
+C:/Users/Bygdc.000/Desktop/code/cmake_record/basic/build/CMakeFiles/test.dir
+C:/Users/Bygdc.000/Desktop/code/cmake_record/basic/build/CMakeFiles/edit_cache.dir
+C:/Users/Bygdc.000/Desktop/code/cmake_record/basic/build/CMakeFiles/rebuild_cache.dir

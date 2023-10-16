@@ -13,4 +13,5 @@ configure_file(Config.h.in Config.h)
 target_include_directories(${PROJECT_NAME} PUBLIC
                            ${PROJECT_BINARY_DIR}
                            )
-set_property(TARGET ${PROJECT_NAME} PROPERTY CXX_STANDARD 20)
+
+                           set_property(TARGET CMakeProject3 PROPERTY CXX_STANDARD 20)
